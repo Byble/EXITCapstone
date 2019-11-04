@@ -1,0 +1,3 @@
+github "SwiftyJSON/SwiftyJSON" "4.1.0"
+github "mapbox/MapboxDirections.swift" "v0.22.0"
+github "raphaelmor/Polyline" "v4.2.0"

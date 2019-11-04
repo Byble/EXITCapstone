@@ -1,0 +1,2 @@
+github "mapbox/MapboxDirections.swift" ~> 0.22
+github "SwiftyJSON/SwiftyJSON" ~> 4.0
